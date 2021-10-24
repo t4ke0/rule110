@@ -1,4 +1,4 @@
-#Rule110
+# Rule110
 
 
 just an implementation of rule110 at the moment it's implemented in golang in
@@ -14,7 +14,7 @@ $ ./rule110
 ```
 
 ```console
-                                                 		  **
+                                                          **
                                                          ***
                                                         ** *
                                                        *****
